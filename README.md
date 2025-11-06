@@ -7,6 +7,8 @@ The internship focused on developing skills in data analysis, model building, an
 
 Task	Description	Skills Used:
 
-Task 1: Beginner	Exploratory Data Analysis (EDA) on the Iris dataset	Data Cleaning, Summary Statistics, Visualization
-Task 2: Intermediate	Classification Model on Titanic Dataset using Logistic Regression	Feature Engineering, Model Training, Evaluation
-Task 3: Advanced	End-to-End Data Analysis on Supermarket Sales Dataset	KPI Computation, Business Insights, Visual Analytics
+Task 1: Beginner	Exploratory Data Analysis (EDA) on the Iris dataset	Data Cleaning, Summary Statistics, Visualization.
+
+Task 2: Intermediate	Classification Model on Titanic Dataset using Logistic Regression	Feature Engineering, Model Training, Evaluation.
+
+Task 3: Advanced	End-to-End Data Analysis on Supermarket Sales Dataset	KPI Computation, Business Insights, Visual Analytics.
